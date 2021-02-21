@@ -1,0 +1,30 @@
+{
+  "name": "uk-frames-react",
+  "version": "1.0.2",
+  "description": "\"# uk-frames-react\"",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "lint": "tslint -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udhayak4251/uk-frames-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udhayak4251/uk-frames-react/issues"
+  },
+  "homepage": "https://github.com/udhayak4251/uk-frames-react#readme",
+  "files": [
+    "lib"
+  ],
+  "devDependencies": {
+    "@types/classnames": "^2.2.11",
+    "classnames": "^2.2.6",
+    "typescript": "^4.1.5"
+  }
+}
